@@ -1,0 +1,91 @@
+asset_shown,known_diagnosis,page_category,mean,count
+C,Migraine ,crohnsdisease,1.0,2
+C,Breast Cancer ,ulcerativecolitis,0.875,8
+A,Ulcerative Colitis,crohnsdisease,0.6923076923076923,26
+A,Breast Cancer ,crohnsdisease,0.6666666666666666,9
+C,Depression,ulcerativecolitis,0.6,5
+C,Crohns Disease,ulcerativecolitis,0.5714285714285714,7
+C, ,crohnsdisease,0.5538922155688623,334
+C,Ulcerative Colitis,ulcerativecolitis,0.5510204081632653,49
+C,Breast Cancer ,crohnsdisease,0.5,4
+C, ,ulcerativecolitis,0.4777947932618683,653
+A,Crohns Disease,crohnsdisease,0.47058823529411764,68
+A,Depression,crohnsdisease,0.4444444444444444,18
+C,Depression,crohnsdisease,0.4444444444444444,9
+C,Ulcerative Colitis,crohnsdisease,0.4444444444444444,9
+B, ,crohnsdisease,0.44041450777202074,579
+B,Migraine ,ulcerativecolitis,0.4375,16
+A, ,crohnsdisease,0.4319695528068506,1051
+A,Migraine ,crohnsdisease,0.42857142857142855,14
+B,Depression,crohnsdisease,0.42857142857142855,7
+B,Ulcerative Colitis,crohnsdisease,0.42857142857142855,7
+A,Crohns Disease,ulcerativecolitis,0.4,35
+A,Migraine ,ulcerativecolitis,0.4,30
+A, ,ulcerativecolitis,0.3612818261633011,2278
+B,Ulcerative Colitis,ulcerativecolitis,0.3445378151260504,119
+C,Crohns Disease,crohnsdisease,0.3333333333333333,9
+B,Migraine ,crohnsdisease,0.3333333333333333,3
+C,Ulcerative Colitis,otherinflammatoryboweldisease,0.3132530120481928,83
+A,Ulcerative Colitis,ulcerativecolitis,0.3076923076923077,195
+B,Crohns Disease,crohnsdisease,0.3076923076923077,26
+B,Breast Cancer ,ulcerativecolitis,0.3,10
+B,Crohns Disease,ulcerativecolitis,0.29411764705882354,17
+B, ,ulcerativecolitis,0.2927899686520376,1595
+A,Breast Cancer ,ulcerativecolitis,0.2916666666666667,24
+A,Depression,ulcerativecolitis,0.2857142857142857,28
+C, ,otherinflammatoryboweldisease,0.26121919584954606,3855
+C,Breast Cancer ,otherinflammatoryboweldisease,0.26,50
+C,Depression,otherinflammatoryboweldisease,0.21428571428571427,84
+B,Breast Cancer ,otherinflammatoryboweldisease,0.20833333333333334,72
+A,Ulcerative Colitis,otherinflammatoryboweldisease,0.20489296636085627,327
+C,Migraine ,otherinflammatoryboweldisease,0.1968503937007874,127
+A, ,otherinflammatoryboweldisease,0.17882418891458202,14271
+A,Migraine ,otherinflammatoryboweldisease,0.17802197802197803,455
+A,Breast Cancer ,otherinflammatoryboweldisease,0.1761006289308176,159
+A,Crohns Disease,otherinflammatoryboweldisease,0.16812227074235808,458
+B,Breast Cancer ,crohnsdisease,0.16666666666666666,6
+C,Crohns Disease,otherinflammatoryboweldisease,0.16030534351145037,131
+B,Migraine ,otherinflammatoryboweldisease,0.15384615384615385,221
+B,Crohns Disease,otherinflammatoryboweldisease,0.1452991452991453,234
+C,Crohns Disease,nauseaandvomiting,0.14473684210526316,76
+B,Ulcerative Colitis,otherinflammatoryboweldisease,0.13432835820895522,134
+B, ,otherinflammatoryboweldisease,0.1335361216730038,6575
+C, ,nauseaandvomiting,0.13068731848983542,6198
+A,Depression,otherinflammatoryboweldisease,0.12459016393442623,305
+C,Breast Cancer ,nauseaandvomiting,0.11737089201877934,426
+C,Migraine ,nauseaandvomiting,0.1038961038961039,77
+C,Ulcerative Colitis,nauseaandvomiting,0.1038961038961039,77
+C,Migraine ,otherdigestiveproblems,0.1,80
+B,Depression,otherinflammatoryboweldisease,0.09271523178807947,151
+C,Depression,otherdigestiveproblems,0.09090909090909091,110
+C,Ulcerative Colitis,otherdigestiveproblems,0.08333333333333333,192
+B,Depression,ulcerativecolitis,0.08333333333333333,12
+C,Breast Cancer ,otherdigestiveproblems,0.07920792079207921,101
+C, ,otherdigestiveproblems,0.07452454666076958,4522
+A,Crohns Disease,nauseaandvomiting,0.07428571428571429,175
+A,Migraine ,nauseaandvomiting,0.0736196319018405,163
+A,Breast Cancer ,nauseaandvomiting,0.06904955320877336,1231
+C,Depression,nauseaandvomiting,0.06611570247933884,121
+A,Ulcerative Colitis,nauseaandvomiting,0.06511627906976744,215
+A, ,nauseaandvomiting,0.06442141623488774,17370
+A,Crohns Disease,otherdigestiveproblems,0.05113636363636364,176
+A,Depression,nauseaandvomiting,0.044386422976501305,383
+C,Crohns Disease,otherdigestiveproblems,0.038461538461538464,52
+A,Ulcerative Colitis,otherdigestiveproblems,0.0352760736196319,652
+A,Migraine ,otherdigestiveproblems,0.031446540880503145,318
+A, ,otherdigestiveproblems,0.02549697493517718,13884
+A,Breast Cancer ,otherdigestiveproblems,0.022222222222222223,315
+B,Crohns Disease,nauseaandvomiting,0.018018018018018018,111
+B, ,nauseaandvomiting,0.01567469332121763,8804
+B,Migraine ,nauseaandvomiting,0.014598540145985401,137
+B,Breast Cancer ,nauseaandvomiting,0.011965811965811967,585
+B,Ulcerative Colitis,nauseaandvomiting,0.010752688172043012,93
+A,Depression,otherdigestiveproblems,0.00684931506849315,292
+B,Depression,nauseaandvomiting,0.005235602094240838,191
+B, ,otherdigestiveproblems,0.0,6908
+B,Ulcerative Colitis,otherdigestiveproblems,0.0,345
+B,Breast Cancer ,otherdigestiveproblems,0.0,153
+B,Depression,otherdigestiveproblems,0.0,148
+B,Migraine ,otherdigestiveproblems,0.0,140
+B,Crohns Disease,otherdigestiveproblems,0.0,80
+C,Migraine ,ulcerativecolitis,0.0,3
