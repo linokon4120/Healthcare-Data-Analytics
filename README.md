@@ -12,7 +12,60 @@ This case study explores user behavior and asset performance using a simulated d
 
 ## Methodology
 ### Data Cleaning & EDA
+The dataset was first cleaned and processed to handle missing values and ensure consistency. I then performed exploratory data analysis to understand basic trends in user behavior, content engagement, and conversion outcomes.
+
+Key initial findings included:
+
+Asset A had the highest number of impressions (~55,000).
+
+Page Category most frequently viewed: Nausea and Vomiting (~36,000 views).
+
+Page Topic Description most common: Gastrointestinal Bleeding (~9,000 views).
+
+Peak Hour for Page Visits: Hour 5 (between 5–6 AM), with ~4,283 sessions.
 
 ### Modeling Conversion Drivers
+I developed a feature importance model to identify the most influential factors driving conversion rates using a classification algorithm. The results were:
+
+Top 3 Most Influential Variables:
+
+- Page Category (17.8%): Especially strong influence from inflammatory bowel disease topics like Crohn's Disease and Ulcerative Colitis.
+
+- Return Visitor Status (17.3%): Returning users showed significantly higher conversion rates.
+
+- Time Spent on Page (15.5%): Users who converted spent on average 72.8 seconds on the page vs. 56.9 seconds for those who didn’t.
+
+
+
+Less Influential Variables:
+
+- Device Type (0.3%)
+
+- Time of Day (~2.5%)
+
+- Page Topic Description (near-zero importance despite content variability)
 
 ## Recommendations
+
+### For Page Content:
+
+Targeted User-Asset Matching:
+
+For users with Crohn’s Disease using mobile devices, Asset A had a conversion rate of 44.19%.
+
+For the same condition, Asset B had a similar conversion rate (~44.04%) but fewer impressions — indicating a possible trade-off between revenue potential and reach.
+
+The combination Asset A + Ulcerative Colitis Diagnosis + Crohn’s Disease Page yielded a 69.23% conversion rate, though infrequent in the dataset.
+
+Default Strategy:
+
+In cases where no highly-matched segments exist, prioritize Asset C due to its overall superior performance and consistency across categories and user types.
+
+### Focus Areas for Future Development:
+- Develop content for high-performing categories: Inflammatory Bowel Disease (IBD), Crohn's Disease, Ulcerative Colitis
+
+- Boost Return Visitor Rates: First-time visitors have significantly lower conversion; strategies such as personalized follow-ups, email capture, or retargeting could improve return rates.
+
+- Reassess Asset B: Asset B underperforms, potentially due to cost-related factors. A redesign or repositioning may improve ROI.
+
+- Create Tailored Content: Focus on users with known diagnoses and deliver customized content to improve relevance and conversion.
