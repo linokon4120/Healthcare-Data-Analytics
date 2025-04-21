@@ -49,15 +49,15 @@ Less Influential Variables:
 
 ### For Page Content:
 
-Targeted User-Asset Matching:
+#### Targeted User-Asset Matching:
 
-For users with Crohn’s Disease using mobile devices, Asset A had a conversion rate of 44.19%.
+- For users with Crohn’s Disease using mobile devices, Asset A had a conversion rate of 44.19%.
 
-For the same condition, Asset B had a similar conversion rate (~44.04%) but fewer impressions — indicating a possible trade-off between revenue potential and reach.
+- For the same condition, Asset B had a similar conversion rate (~44.04%) but fewer impressions — indicating a possible trade-off between revenue potential and reach.
 
-The combination Asset A + Ulcerative Colitis Diagnosis + Crohn’s Disease Page yielded a 69.23% conversion rate, though infrequent in the dataset.
+- The combination Asset A + Ulcerative Colitis Diagnosis + Crohn’s Disease Page yielded a 69.23% conversion rate, though infrequent in the dataset.
 
-Default Strategy:
+#### Default Strategy:
 
 In cases where no highly-matched segments exist, prioritize Asset C due to its overall superior performance and consistency across categories and user types.
 
